@@ -3,7 +3,12 @@
     background-color: #90C8CC;
 }
 
-.jumbotron  {
-   background-color: #E8B2BA;
+.margin {
+    background-color: #efefef;
+    padding-top: 5px;
+} 
+
+.jumbotron {
+    background-color: #fec0ce;
 
 }
