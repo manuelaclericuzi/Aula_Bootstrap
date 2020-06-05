@@ -1,7 +1,6 @@
-
 .navbar {  
-    background-color: #90C8CC;
-}
+    background-color: #89AFA4;
+    }
 
 .margin {
     background-color: #efefef;
@@ -9,6 +8,29 @@
 } 
 
 .jumbotron {
-    background-color: #fec0ce;
+    background-color: #FEDCD2;
+     margin-top: 80px;
+}
+.btn {
+    border-color: #151313;
+}
+
+.btn-outline-success {
+    color: #151313; 
+}
+
+.sobre {
+    background-color:#ffffff;
+    padding-top: 40px;
+}
+
+.rounded-circle {
+    border-color: darkred;
 
 }
+
+.img {
+    border-color: #151313;
+
+}
+
