@@ -1,15 +1,14 @@
 .navbar {  
     background-color: #89AFA4;
     }
-
-.margin {
-    background-color: #efefef;
-    padding-top: 5px;
-} 
+ 
 
 .jumbotron {
     background-color: #FEDCD2;
-     margin-top: 80px;
+    margin-top: 5px;
+    background-image: url(../img/background3.png);
+    background-size: cover;
+
 }
 .btn {
     border-color: #151313;
@@ -19,18 +18,20 @@
     color: #151313; 
 }
 
-.sobre {
-    background-color:#ffffff;
-    padding-top: 40px;
-}
-
 .rounded-circle {
-    border-color: darkred;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #89AFA4;
+}
+
+.redes {
+    transition: all 0.2s ease-out;
 
 }
 
-.img {
-    border-color: #151313;
+.redes:hover {
+    cursor: pointer;
+    transform: translateY(-5px);
+    box-shadow: 5px 30px 16px 0px rgba( 50,50,50,0,45);
 
 }
-
