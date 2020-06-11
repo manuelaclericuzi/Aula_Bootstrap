@@ -1,27 +1,37 @@
-.navbar {  
-    background-color: #89AFA4;
+.navbar { 
+    background-color: beige;
+   
+  
+
     }
+
+body {
+    background-image: url(../img/roxo.jpg);
+
+
+    }
+ 
  
 
 .jumbotron {
-    background-color: #FEDCD2;
+    color: #FFFFFF;
+    background-image: url(../img/roxo.jpg);
     margin-top: 5px;
-    background-image: url(../img/background3.png);
     background-size: cover;
 
 }
 .btn {
-    border-color: #151313;
+    border-color: #FFFFFF;
 }
 
 .btn-outline-success {
-    color: #151313; 
+    color: #FFFFFF; 
 }
 
 .rounded-circle {
     border-style: solid;
     border-width: 8px;
-    border-color: #89AFA4;
+    border-color: #FFFFFF;
 }
 
 .redes {
@@ -35,3 +45,30 @@
     box-shadow: 5px 30px 16px 0px rgba( 50,50,50,0,45);
 
 }
+
+footer {
+    background-color: #23B14D;
+    color: #FFFFFF;
+    width: 50px;
+    height: 50px;
+
+
+
+}
+
+.sobre#mim {
+    background-color: #FFFFFF;
+
+}
+
+.masthead-avatar    {
+    margin-top: 60px;
+    width: 300px;
+    height: 300px;
+
+}
+
+.row    {
+    background-color: #FFFFFF;
+
+} 
